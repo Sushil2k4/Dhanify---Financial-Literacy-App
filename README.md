@@ -28,11 +28,11 @@ The financial literacy crisis is a pressing issue affecting young adults who oft
 ## Solution
 To address this critical issue, our project this platform aims to make financial education engaging and accessible by incorporating:<br />
 
-Gamification of Investments: Interactive elements to make learning about finance enjoyable and rewarding.<br />
-Social Investing and Peer Learning: Opportunities for students to learn from peers and share investment strategies.<br />
-Real-World Simulations: Practical scenarios to help students understand financial concepts and decision-making.<br />
-Ethical Investing Options: Encouraging responsible investment choices.<br />
-Automatic Portfolio Rebalancing: Tools to help students manage their investments effectively.<br />
-Integration with Educational Institutions: Collaboration with schools and universities to incorporate financial literacy into the curriculum.<br />
+**Gamification of Investments:** Interactive elements to make learning about finance enjoyable and rewarding.<br />
+**Social Investing and Peer Learning:** Opportunities for students to learn from peers and share investment strategies.<br />
+**Real-World Simulations:** Practical scenarios to help students understand financial concepts and decision-making.<br />
+**Ethical Investing Options:** Encouraging responsible investment choices.<br />
+**Automatic Portfolio Rebalancing:** Tools to help students manage their investments effectively.<br />
+**Integration with Educational Institutions:** Collaboration with schools and universities to incorporate financial literacy into the curriculum.<br />
 In-App Financial Advising: Personalized advice to guide students in their financial journey.<br />
 By focusing on these features, we aim to improve financial literacy among students, equipping them with the knowledge and skills needed for better financial management and contributing to a more financially stable future.<br />
