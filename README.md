@@ -17,7 +17,7 @@ FinTech
 
 # Problem Statement :-
 
-## Financial Literacy Crisis: A Barrier to Economic Prosperity,br />
+## Financial Literacy Crisis: A Barrier to Economic Prosperity,<br />
 Problem: Financial literacy is alarmingly low among young adults, largely due to its absence in mainstream education. This gap results in poor money management, increased debt, and inadequate investment in future financial security. The lack of financial education contributes to higher poverty rates, economic instability, and a less financially resilient population. Recent surveys reveal that only 24% of millennials have basic financial knowledge, highlighting the urgent need for accessible and engaging financial education.
 
 # Introduction to your problem statement and solution :-
