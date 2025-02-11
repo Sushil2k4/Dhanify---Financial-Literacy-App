@@ -11,6 +11,6 @@ public class SimulationActivity extends AppCompatActivity {
         setContentView(R.layout.activity_simulation);
 
         TextView textView = findViewById(R.id.simulation_text);
-        textView.setText("COMING SOON");
+        textView.setText("COMING VERY SOON");
     }
 }
