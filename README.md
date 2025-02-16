@@ -1,6 +1,6 @@
 # Lingo Linkers 🚀💡
 
-## Team Name: Lingo Linkers
+REDBULL HACKATHON 🐂
 
 ### Meet the Team:
 - **Team Leader**: Sushil Kumar Mishra  
